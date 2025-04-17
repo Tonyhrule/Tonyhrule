@@ -25,15 +25,9 @@ reading&nbsp;<a href="https://arxiv.org/" target="_blank">📚</a>, or singing 
 
 - **Factual Context Validation & Simplification** – Exploring RAG pipelines that compress storage while maintaining/boosting factual accuracy on QA tasks.  
 - **Structured Reasoning for Fairness** – Multi‑agent workflow that disentangles fact vs opinion and flags textual bias with interpretable scores.  
-- **FEAD (Figma‑Enhanced App Design)** – Identify‑design‑implement process that ports Figma layouts into MIT App Inventor for enhanced UI with zero extra code.  
 - **Cost‑Effective Robotic Handwriting System** – \$56 Raspberry Pi plotter reproducing user handwriting at ±0.3 mm precision.  
 - **Synthetic Data for HAB Detection** – Investigates Gaussian‑copula augmentation and explores optimal synthetic‑data ratios for harmful algal bloom detection.
-
-<p align="left">
-  <a href="https://scholar.google.com/citations?user=saanzOEAAAAJ&hl=en&oi=sra" target="_blank">
-    <img height="26" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-</p>
+- **More Details → [Google Scholar](https://scholar.google.com/citations?user=saanzOEAAAAJ&hl=en&oi=sra)**
 
 ## 🌐 Connect with Me
 Feel free to reach out on GitHub, LinkedIn, or Email via the buttons below!
