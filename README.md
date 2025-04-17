@@ -18,7 +18,7 @@ reading&nbsp;<a href="https://arxiv.org/" target="_blank">📚</a>, or singing 
   First Student Ambassador; design open‑source curricula for AI literacy and AI tools for educators and policymakers.  
 - **Founder & President, [App‑In Club](https://www.appinclub.org/) (2022 – Present)**  
   Lead a global nonprofit with 20 + chapters and 10,000 + learners, offering free AI/app workshops, events, and resources.  
-- **LLM Research Engineer, [Mathos AI](https://www.mathos.ai/) (2024 – 2025)**  
+- **LLM Research Engineer, [Mathos AI](https://info.mathos.ai/) (2024 – 2025)**  
   Built multi‑agent pipelines with advanced calculus solvers, automated data retrieval workflows, and led the TI-84 emulator feature.
 
 ## 🔬 Projects
